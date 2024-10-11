@@ -1,4 +1,4 @@
-## House Price Prediction Using Linear Regression
+## House Price Visualization Analysis
 This project aims to predict house prices in King County, USA, using linear regression. The dataset includes various features of houses, such as square footage, bedrooms, bathrooms, and price, among others.
 ## Objectives
 - Perform EDA to identify trends and correlations between features (e.g., price vs. square footage).
